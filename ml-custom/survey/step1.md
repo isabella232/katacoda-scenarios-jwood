@@ -12,8 +12,8 @@
 
 >>What is your experience level with Beats?<<
 [ ] Never used it before
-[ ] Beginner - I've writen some queries
-[ ] Intermediate - I've done whole projects
+[ ] Beginner - I've turned on out of the box modules
+[ ] Intermediate - I've done custom work
 [ ] Advanced - I know obscure things
 
 >>Have you used the Elastic observability solution (logging, metrics, uptime, and application performance monitoring)?<<
