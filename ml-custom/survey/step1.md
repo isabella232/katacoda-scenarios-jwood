@@ -34,5 +34,12 @@
 [*] Yes
 [*] No
 
->>Anything you'd like to share?<<
-=~=  
+>>Which version of Elastic software do you use most often <<
+[*] I don't currently use it
+[*] 5.x or older
+[*] 6.x
+[*] 7.0-7.5
+[*] 7.5-${current}
+
+>>Anything you'd like to share? (Your answer must contain a period (`.`)<<
+=~= \s
