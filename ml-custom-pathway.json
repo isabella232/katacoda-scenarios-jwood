@@ -10,8 +10,7 @@
     {
       "course_id": "cloud-quickstart",
       "title": "Elastic Cloud Quickstart",
-      "description": "Get up and running fast with Elasticsearch and Kibana",
-      "courses": []
+      "description": "Get up and running fast with Elasticsearch and Kibana"
     }
   ]
 }
