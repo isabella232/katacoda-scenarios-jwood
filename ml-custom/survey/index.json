@@ -1,11 +1,13 @@
 {
     "noindex": true,
-    "title": "Demographic Survey",
+    "title": "Survey",
     "description": "Help us understand your level of exposure to the Elastic Stack.",
+    "difficulty": "Beginner",
+    "time": "2 minutes",
     "details": {
         "steps": [
             {
-                "title": "Survey",
+                "title": "Knowledge and previous experience",
                 "text": "step1.md"
             }
         ],
