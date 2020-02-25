@@ -24,7 +24,7 @@
   },
   "files": [],
   "environment": {
-    "showdashboard": true,
+    "showdashboard": false,
     "uilayout": "terminal",
     "uimessage1": "\u001b[32mThis is your Interactive Bash Terminal.\u001b[m\r\n"
   },
