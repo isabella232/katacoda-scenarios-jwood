@@ -1,6 +1,6 @@
 {
   "title": "Elastic Cloud Quickstart",
-  "description": "Get up and running with Elasticsearch and Kibana on Elastic Cloud",
+  "description": "Get up and running fast with Elasticsearch and Kibana",
   "difficulty": "Beginner",
   "time": "10 minutes",
   "details": {
@@ -22,12 +22,13 @@
     }
   },
   "environment": {
-    "showdashboard": true,
-    "dashboard": "Elastic Cloud",
-    "uilayout": "terminal-iframe",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.  Yay!\u001b[m\r\n"
+      "showdashboard": true,
+      "dashboard": "Dashboard!!!!!!!",
+      "uilayout": "terminal-iframe",
+      "uimessage1": "\u001b[32mYour Interactive Bash Terminal. yay\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "python:3.6"
+      "imageid": "jenkins",
+      "port": 8080
   }
 }
