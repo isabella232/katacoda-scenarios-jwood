@@ -1,11 +1,11 @@
 {
     "noindex": true,
-    "title": "Interactive Quiz",
-    "description": "Verify understand and key points by using an interactive quiz",
+    "title": "Demographic Survey",
+    "description": "Help us understand your level of exposure to the Elastic Stack.",
     "details": {
         "steps": [
             {
-                "title": "Quiz",
+                "title": "Survey",
                 "text": "step1.md"
             }
         ],
