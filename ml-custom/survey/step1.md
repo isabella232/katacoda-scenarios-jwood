@@ -38,8 +38,4 @@
 [*] I don't currently use it
 [*] 5.x or older
 [*] 6.x
-[*] 7.0-7.5
-[*] 7.5-${current}
-
->>Anything you'd like to share? (Your answer must contain the word  "winning"<<
-=~= winning
+[*] 7.x
