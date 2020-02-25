@@ -41,5 +41,5 @@
 [*] 7.0-7.5
 [*] 7.5-${current}
 
->>Anything you'd like to share? (Your answer must contain a period (`.`)<<
-=~= .
+>>Anything you'd like to share? (Your answer must contain the word  "winning"<<
+=~= winning
