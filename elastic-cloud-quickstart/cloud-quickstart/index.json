@@ -21,14 +21,8 @@
       "text": "finish.md"
     }
   },
-  "environment": {
-      "showdashboard": true,
-      "dashboard": "Dashboard!!!!!!!",
-      "uilayout": "terminal-iframe",
-      "uimessage1": "\u001b[32mYour Interactive Bash Terminal. yay\u001b[m\r\n"
-  },
+  "environment": {},
   "backend": {
-      "imageid": "jenkins",
-      "port": 8080
+    "imageid": "python:3.6"
   }
 }
