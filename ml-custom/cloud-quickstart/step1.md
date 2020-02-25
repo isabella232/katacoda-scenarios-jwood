@@ -5,18 +5,18 @@ If you already have an Elastic Cloud account, [head on over and sign in](https:/
 If you've never used Elastic Cloud before, you'll need to make an account. Head over to
 [Elastic Cloud](http://elastic.co/cloud/elasticsearch-service/signup) and sign up.
 
-Enter your email to start your trial.
+1. Enter your email to start your trial.
 ![Sign Up](/katacoda-scenarios-jwood/ml-custom/cloud-quickstart/assets/01-sttart-trial.png)
 ![Sign Up](./assets/01-start-trial.png)
 
-In a few seconds you should receive a confirmation message, click the blue button.
+1. In a few seconds you should receive a confirmation message, click the blue button.
 ![Sign Up](./assets/02-confirmation-email.png)
 
-Choose a password. You may want to write this down in case you're logged out for inactivity during
+1. Choose a password. You may want to write this down in case you're logged out for inactivity during
 a break.
 ![Sign Up](./assets/03-set-password.png)
 
-You're now signed into the "command and control" center, and you can create your trial deployment.
+1. You're now signed into the "command and control" center, and you can create your trial deployment.
 ![Sign Up](./assets/04-create-first-deployment.png)
 
 Name the deployment:
