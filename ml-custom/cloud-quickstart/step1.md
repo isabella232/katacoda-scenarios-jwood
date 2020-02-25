@@ -4,3 +4,4 @@ If you've never used Elastic Cloud before, you'll need to make an account. Head 
  [Elastic Cloud](https://cloud.elastic.co) and sign up.
  
  ![Sign Up](/katacoda-scenarios-jwood/ml-custom/cloud-quickstart/assets/00-sign-up.png)
+ ![Sign Up](./assets/00-sign-up.png)

@@ -26,7 +26,7 @@
   "environment": {
     "showdashboard": true,
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.yay\u001b[m\r\n"
+    "uimessage1": "\u001b[32mThis is your Interactive Bash Terminal.\u001b[m\r\n"
   },
   "backend": {
     "imageid": "python:3.6"
