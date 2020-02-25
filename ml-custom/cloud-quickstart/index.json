@@ -1,4 +1,5 @@
 {
+  "noindex": true,
   "title": "Elastic Cloud Quickstart",
   "description": "Get up and running fast with Elasticsearch and Kibana",
   "difficulty": "Beginner",
@@ -21,6 +22,7 @@
       "text": "finish.md"
     }
   },
+  "files": [],
   "environment": {
      "uilayout": "terminal"
   },
