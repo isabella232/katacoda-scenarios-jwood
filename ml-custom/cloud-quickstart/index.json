@@ -24,7 +24,10 @@
   },
   "files": [],
   "environment": {
-     "uilayout": "terminal"
+    "showdashboard": true,
+    "dashboard": "Dashboard",
+    "uilayout": "terminal-iframe",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },
   "backend": {
     "imageid": "python:3.6"
