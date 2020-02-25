@@ -8,6 +8,7 @@
       "description": "Help us understand your level of exposure to the Elastic Stack."
     },
     {
+      "course_id": "cloud-quickstart",
       "title": "Elastic Cloud Quickstart",
       "description": "Get up and running fast with Elasticsearch and Kibana",
       "courses": []
