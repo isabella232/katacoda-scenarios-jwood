@@ -32,12 +32,8 @@
 [*] Yes
 [*] No
 
->>Which version of Elastic software do you use most often<<
+>>Which version of Elastic software do you use most often?<<
 [*] I don't currently use it
 [*] 5.x or older
 [*] 6.x
 [*] 7.x
-
->>What is  1+1?<<
-( ) 1
-(*) 2
