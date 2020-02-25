@@ -1,5 +1,3 @@
-## Workshop Attendee Demographics
-
 >>What is your experience level with Elasticsearch? <<
 [*] Never used it before
 [*] Beginner - I've writen some queries
