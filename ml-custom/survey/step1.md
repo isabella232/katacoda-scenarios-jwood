@@ -42,4 +42,4 @@
 [*] 7.5-${current}
 
 >>Anything you'd like to share? (Your answer must contain a period (`.`)<<
-=~= \s
+=~= .
