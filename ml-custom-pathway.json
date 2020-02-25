@@ -3,9 +3,9 @@
   "description": "Custom ML workshop ca. v7.6",
   "courses": [
     {
-      "course_id": "quiz",
-      "title": "Interactive Quiz",
-      "description": "Verify understand and key points by using an interactive quiz"
+      "course_id": "survey",
+      "title": "Survey",
+      "description": "Help us understand your level of exposure to the Elastic Stack."
     }
   ]
 }
